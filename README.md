@@ -1,6 +1,4 @@
-# Node.js WebアプリケーションをDocker化するサンプル
+# Todoアプリ
 
-下記のコマンドで依存しているモジュールをインストール
-```
-npm install
-```
+フレームワークの使用は無し。
+純粋にHTML, CSS, JavaScriptのみで作成。
